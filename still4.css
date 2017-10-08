@@ -1,0 +1,17 @@
+
+header {
+	background-color: tomato;
+	width: 100%;
+	height: 120px; 
+    padding: 30px;
+    margin: 0 auto;
+    text-align: center;
+    color: white;
+    background-size: 20%;
+    border: 3px solid #66ffd9;
+
+   }
+
+h3, h4 {
+        text-align: center;
+    }
